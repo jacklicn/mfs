@@ -2,6 +2,7 @@ MooseFS is an Open Source, easy to deploy and maintain, distributed,
 fault tolerant file system for POSIX compliant OSes.
 
 MooseFS uses FUSE (http://fuse.sourceforge.net/).
+or https://github.com/jacklicn/fuse
 
 ============
 Date of first public release: 2008-05-30
@@ -17,8 +18,13 @@ http://sourceforge.net/projects/moosefs/
 Reporting bugs: bugs@moosefs.com
 General contact address: contact@moosefs.com
 
+Using moosefs
+============
+http://www.moosefs.org/who-is-using-moosefs.html
+http://bbs.chinaunix.net/thread-1644309-1-1.html
+
 Copyright
-=========
+============
 
 Copyright (C) 2015 Jakub Kruszona-Zawadzki, Core Technology Sp. z o.o.
 
